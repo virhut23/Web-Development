@@ -467,7 +467,6 @@ footer .dropdown-list ul.show {
   .case3 .showcase-animation {
     left: 135px;
   }
-  /* button */
 
   .btn {
     padding: 10px 15px;
@@ -475,7 +474,6 @@ footer .dropdown-list ul.show {
   }
 }
 
-/* median-screen*/
 @media (max-width: 550px) {
   /* nav logo */
 
