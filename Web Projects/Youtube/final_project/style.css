@@ -1,0 +1,127 @@
+/* First Video */
+
+.thumbnail-1 {
+  width: 100%;
+}
+
+.vid-info-grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+.vid-title {
+  font-family: Arial;
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: bold;
+  width: 250px;
+  line-height: 20px;
+  margin-bottom: 12px;
+}
+
+.vid-author {
+  display: block;
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 0px;
+} 
+
+.vid-stats {
+  display: block;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 5px;
+}
+
+
+.pfp1 {
+  width: 40px;
+  border-radius: 100%;
+}
+
+.thumbnail-row1 {
+  margin-bottom: 12px;
+}
+
+/* Second Video */
+
+.vid-preview2 {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.thumbnail-2 {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+
+.pfp2 {
+  width: 40px;
+  border-radius: 100%;
+}
+
+.vid-info-grid1 {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
+
+
+.vid-title2 {
+  font-family: Arial;
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: bold;
+  width: 250px;
+  line-height: 20px;
+  margin-bottom: 12px;
+}
+
+.vid-author2 {
+  display: block;
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+
+.vid-stats2 {
+  display: block;
+  font-size: 14px;
+  color: rgb(96, 96, 96);
+  margin-top: 5px;
+}
+
+/* Targeting the Grids */
+
+.vid-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 14px;
+  row-gap: 20px;
+}
+
+/* Third Video */
+
+.thumbnail-3 {
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.pfp3 {
+  width: 40px;
+  border-radius: 100%;
+}
+
+/* Other videos are within the video one styling */
+
+.vid-preview {
+  padding-right: 12px;
+}
+
+.vid-preview:hover {
+  background-color: rgb(246, 246, 246);
+  cursor: pointer;
+}
+
+/* Footer */
